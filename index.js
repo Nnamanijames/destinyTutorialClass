@@ -7,5 +7,5 @@ name.onclick = function(){
 
 
 school.onclick = function(){
-    school.innerHTML = "I am taking Python course"
+    school.innerHTML = "I am taking Python course here"
 }
